@@ -1,0 +1,14 @@
+Name: Terrence Ng
+
+----- Simple Topology Contents -----
+
+- TerrenceNg-script.sh
+	- shell script prints every even line of every file in current directory
+
+- TerrenceNg-topo.py
+	- the mininet topology that changes the default configuration to have 
+	  4 hosts connected to a single switch
+
+- README
+	- describes the contents of each file 
+
