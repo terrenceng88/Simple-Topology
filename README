@@ -1,4 +1,5 @@
-Name: Terrence Ng
+- Writen in python and shell using mininet
+
 
 ----- Simple Topology Contents -----
 
@@ -12,4 +13,4 @@ Name: Terrence Ng
 - README
 	- describes the contents of each file 
 
-- Writen in python and shell using mininet
+
